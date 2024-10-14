@@ -1,5 +1,5 @@
 .venv
-vgwiki/__pycache__
+video_game_archive/__pycache__
 tracker/__pycache__
 tracker/migrations/__pycache__
 db.sqlite3
