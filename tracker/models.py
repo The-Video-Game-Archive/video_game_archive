@@ -9,7 +9,12 @@ class Game(models.Model):
     description = models.TextField(verbose_name="Description", blank=True, null=True)
     release_date = models.DateField(verbose_name="Release Date", blank=True, null=True)
     url = models.CharField(verbose_name="IGDB Link", max_length=400, blank=True, null=True)
+    # TODO: Developer and publisher should be reconfigured as collections of foreign keys derived
+    # from Companies. The foreign keys will be sourced from the Companies IGDB data dump
+    developer = models.CharField(verbose_name="Developer", max_length=300, blank=True, null=True)
+    publisher = models.CharField(verbose_name="Publisher", max_length=300, blank=True, null=True)
     igdb_id = models.IntegerField(verbose_name="IGDB ID", default=0)
+    igdb_name = models.CharField(verbose_name="IGDB Name", max_length=300)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     test_boolean = models.BooleanField(default=False)
@@ -33,16 +38,25 @@ class GameVersion(models.Model):
     game = models.ForeignKey(
         "Game",
         on_delete=models.PROTECT,
+        blank=True,
+        null=True
     )
-    version = models.CharField(verbose_name="Version", max_length=300)
+    file_name = models.CharField(verbose_name="Filename", max_length=400, null=True)
+    version = models.CharField(verbose_name="Version", max_length=300, default='1.00 (Unverified)')
     release_date = models.DateField(verbose_name="Release Date", blank=True, null=True)
+    # TODO: Developer and publisher exists on Game Version for cases where we know a specific Game Version
+    # was developed or published by a specific Company. These will mostly be blank, and should also be
+    # reconfigured into aggregates like on Game.
+    developer = models.CharField(verbose_name="Developer", max_length=300, blank=True, null=True)
+    publisher = models.CharField(verbose_name="Publisher", max_length=300, blank=True, null=True)
     is_archived = models.BooleanField(verbose_name="Archived", default=False)
     played_status = models.IntegerField(choices=PlayedStatusChoices.choices, default=PlayedStatusChoices.unplayed)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return f"{self.game} ({self.game.platform}) ({self.version})"
+        # return f"{self.game} ({self.game.platform}) ({self.version})"
+        return self.file_name
 
     class Meta:
         ordering = ["game"]
@@ -56,6 +70,7 @@ class Platform(models.Model):
     url = models.CharField(verbose_name="IGDB Link", max_length=400, blank=True, null=True)
     generation = models.IntegerField(verbose_name = "Generation", blank=True, null=True)
     igdb_id = models.IntegerField(verbose_name="IGDB ID", default=0)
+    igdb_name = models.CharField(verbose_name="IGDB Name", max_length=300)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
@@ -98,3 +113,10 @@ class GameEngine(models.Model):
         ordering = ["name"]
         verbose_name = "Game Engine"
         verbose_name_plural = "Game Engines"
+
+class Company(models.Model):
+    name = models.CharField(verbose_name="Company Name", max_length=300)
+    founding_date = models.DateTimeField()
+    closing_date = models.DateTimeField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)

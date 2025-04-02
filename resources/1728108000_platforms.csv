@@ -1,0 +1,220 @@
+id,name,slug,url,created_at,updated_at,summary,category,platform_family,alternative_name,generation,versions,abbreviation,platform_logo,websites,checksum
+62,Atari Jaguar,jaguar,https://www.igdb.com/platforms/jaguar,2013-06-26 18:16:31,2024-06-10 13:48:09,,1,,,5,{28},Jaguar,286,,70557c0a-1cac-d093-d287-67d8e5a201b0
+477,Panasonic Jungle,panasonic-jungle,https://www.igdb.com/platforms/panasonic-jungle,2024-03-21 16:22:17,2024-06-10 13:48:09,,5,,,8,{694},,853,{378},ca866b1b-b074-cdec-2cf1-b79957647df3
+504,Uzebox,uzebox,https://www.igdb.com/platforms/uzebox,2024-07-19 19:31:09,2024-08-02 03:12:22,,1,,EUzebox,,"{720,721}",,891,{403},6f7f06cb-3853-80ad-191a-dc6b1015f967
+148,AY-3-8607,ay-3-8607,https://www.igdb.com/platforms/ay-3-8607,2017-09-19 13:56:57,2024-06-10 13:48:09,,1,,,,{211},,,,b148a659-dc31-1245-8623-321ce9008d75
+65,Atari 8-bit,atari8bit,https://www.igdb.com/platforms/atari8bit,2013-06-29 10:05:48,2024-06-10 13:48:09,,6,,,,"{27,104}",Atari8bit,373,,37adef88-b15f-3963-a417-687e5e0a6260
+128,PC Engine SuperGrafx,supergrafx,https://www.igdb.com/platforms/supergrafx,2016-03-08 13:47:29,2024-06-10 13:48:09,,1,,SuperGrafx,4,{166},supergrafx,364,{274},18e4df69-a46a-9ff2-c84a-ce29e88ac5c3
+89,Microvision,microvision--1,https://www.igdb.com/platforms/microvision--1,2014-08-09 20:28:24,2024-06-10 13:48:09,,5,,,2,{102},microvision,314,,0d3ccf60-cdd5-5609-4f6b-fc6522e86a18
+8,PlayStation 2,ps2,https://www.igdb.com/platforms/ps2,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,1,PS2,6,"{58,114}",PS2,254,,be3e025c-d4ed-b795-443c-a8cb55fbfe17
+6,PC (Microsoft Windows),win,https://www.igdb.com/platforms/win,2011-02-13 23:21:28,2024-06-10 13:48:09,,4,,mswin,,"{1,13,14,15,124,513,529,530,531,532,533,534}",PC,670,{2},882ca6f3-57ac-cd51-6c68-7a1e030c36ab
+23,Dreamcast,dc,https://www.igdb.com/platforms/dc,2011-03-15 11:20:04,2024-06-10 13:48:09,,1,3,DC,6,{16},DC,270,{276},12e469e8-139b-53e8-d69c-772aaca8d87a
+35,Sega Game Gear,gamegear,https://www.igdb.com/platforms/gamegear,2011-04-27 19:50:31,2024-06-10 13:48:09,,5,3,GG,4,{62},Game Gear,287,,54cd82ec-c45b-f5d7-baae-97b94344e716
+44,Tapwave Zodiac,zod,https://www.igdb.com/platforms/zod,2011-10-04 17:19:54,2024-06-10 13:48:09,,5,,,,{69},zod,46,,7916e6bf-353a-6f27-a8de-a429204d17d9
+88,Odyssey,odyssey--1,https://www.igdb.com/platforms/odyssey--1,2014-08-09 20:26:18,2024-06-10 13:48:09,,1,,Magnavox Odyssey; Odysee; Odisea; Odissea,1,"{101,167,168,169,170,171}",odyssey,,{211},26859452-7553-fa16-0833-3a62209ac679
+94,Commodore Plus/4,c-plus-4,https://www.igdb.com/platforms/c-plus-4,2014-10-25 16:59:32,2024-06-10 13:48:09,,6,,,,{108},C+4,310,,ea138789-6bbe-bcca-dff5-7e20e762f65a
+123,WonderSwan Color,wonderswan-color,https://www.igdb.com/platforms/wonderswan-color,2015-09-05 20:53:51,2024-06-10 13:48:09,,5,,WSC,5,{161},,261,,748af3e0-64cd-acfa-104b-eb1fe5c9ad42
+134,Acorn Electron,acorn-electron,https://www.igdb.com/platforms/acorn-electron,2016-11-18 10:14:28,2024-06-10 13:48:09,,6,,,,{184},,301,,ec7fd022-fcf9-8bf8-a73b-09080d9d3515
+129,Texas Instruments TI-99,ti-99,https://www.igdb.com/platforms/ti-99,2016-03-30 14:35:22,2024-06-10 13:48:09,,6,,Texas Instruments TI-99/4A,,"{172,427}",ti-99,540,{218},b941f047-24e3-0297-b162-ea548b94b6f9
+133,Odyssey 2 / Videopac G7000,odyssey-2-slash-videopac-g7000,https://www.igdb.com/platforms/odyssey-2-slash-videopac-g7000,2016-10-24 10:27:15,2024-06-10 13:48:09,,6,,Magnavox Odyssey²,,{183},,112,,e559181e-7edc-3d18-707e-c534dfbf01eb
+135,Hyper Neo Geo 64,hyper-neo-geo-64,https://www.igdb.com/platforms/hyper-neo-geo-64,2017-04-13 22:05:16,2024-06-10 13:48:09,,2,,,,{186},,117,,fedca8ca-3a51-84db-1d6a-36a2536d3fe0
+136,Neo Geo CD,neo-geo-cd,https://www.igdb.com/platforms/neo-geo-cd,2017-04-13 22:05:52,2024-06-10 13:48:09,,1,,NGCD,4,{187},,281,,d2e84b49-6a66-6df9-cecf-e85abba7d90e
+142,PC-50X Family,pc-50x-family,https://www.igdb.com/platforms/pc-50x-family,2017-09-16 21:30:44,2024-06-10 13:48:09,,1,,,1,"{200,205}",,132,,bf68d34d-92d5-53be-0fc9-2493532a29a4
+144,AY-3-8710,ay-3-8710,https://www.igdb.com/platforms/ay-3-8710,2017-09-19 13:56:07,2024-06-10 13:48:09,,1,,,,{207},,,,5438ffcf-1f05-47e9-e082-15bafd1dc92f
+146,AY-3-8605,ay-3-8605,https://www.igdb.com/platforms/ay-3-8605,2017-09-19 13:56:35,2024-06-10 13:48:09,,1,,,,{209},,,,3c9b3a84-dc54-3c94-0ee0-5cb97809d2a5
+147,AY-3-8606,ay-3-8606,https://www.igdb.com/platforms/ay-3-8606,2017-09-19 13:56:46,2024-06-10 13:48:09,,1,,,,{210},,,,49428df3-7b02-316e-2390-95a230795394
+149,PC-9800 Series,pc-9800-series,https://www.igdb.com/platforms/pc-9800-series,2017-10-26 09:31:47,2024-06-10 13:48:09,,6,,PC-98,,{214},,366,{371},59b1f9b8-2dd7-2d98-9d97-d2182d6c30cd
+150,Turbografx-16/PC Engine CD,turbografx-16-slash-pc-engine-cd,https://www.igdb.com/platforms/turbografx-16-slash-pc-engine-cd,2017-10-26 09:33:17,2024-06-10 13:48:09,,6,,TG-16CD/PCECD,,{215},,291,,0ebd9409-3139-db67-2b02-317f9f3b6913
+505,Elektor TV Games Computer,elektor-tv-games-computer,https://www.igdb.com/platforms/elektor-tv-games-computer,2024-08-29 20:22:17,2024-08-29 20:22:29,,6,,TVGC,,{723},,,{404},79b53a4d-abdb-7ac9-7192-0527213be640
+156,Thomson MO5,thomson-mo5,https://www.igdb.com/platforms/thomson-mo5,2017-11-07 10:39:17,2024-06-10 13:48:09,,6,,,,{221},,537,{24},5f4cdd4c-4bc0-2a7d-9842-5d1c5350ab4f
+158,Commodore CDTV,commodore-cdtv,https://www.igdb.com/platforms/commodore-cdtv,2017-11-07 10:41:04,2024-06-10 13:48:09,,6,,Commodore Dynamic Total Vision,,{223},,292,{26},5d48648e-283c-e2df-df7d-6d3cbc7e0a58
+163,SteamVR,steam-vr,https://www.igdb.com/platforms/steam-vr,2018-02-15 14:26:44,2019-07-01 14:23:05,,,,,,{233},Steam VR,159,{30},e2c8f5f7-2c50-5d2d-b9b9-1135281d38f4
+237,Sol-20,sol-20,https://www.igdb.com/platforms/sol-20,2019-11-15 10:22:57,2024-06-10 13:48:09,,6,,,,{354},,,{219},c608e02f-1a92-d010-b161-4a368220bdfe
+13,DOS,dos,https://www.igdb.com/platforms/dos,2011-02-14 08:30:23,2024-06-10 13:48:09,,4,,PC DOS,,"{56,540}",DOS,38,,9aabba9b-eb06-5274-26e1-250114855890
+24,Game Boy Advance,gba,https://www.igdb.com/platforms/gba,2011-03-15 15:03:46,2024-06-10 13:48:09,,5,5,GBA,6,"{40,193,194}",GBA,256,,f9f58c45-16c0-f760-1556-ce3fe6cd93be
+30,Sega 32X,sega32,https://www.igdb.com/platforms/sega32,2011-03-24 09:45:05,2024-06-10 13:48:09,,1,3,,4,"{61,703}",Sega32,279,,71e35e2d-dd35-dc89-1c54-b8286b4b7050
+85,Donner Model 30,donner30,https://www.igdb.com/platforms/donner30,2014-05-10 21:59:31,2024-06-10 13:48:09,,6,,,,{93},donner30,,,c11154b6-9734-c8fa-a9d3-9b56ffb1e4d9
+119,Neo Geo Pocket,neo-geo-pocket,https://www.igdb.com/platforms/neo-geo-pocket,2015-09-03 08:33:39,2024-06-10 13:48:09,,5,,NGP,5,{157},,390,,c0ff62cb-db50-1c63-765f-b470e0393069
+41,Wii U,wiiu,https://www.igdb.com/platforms/wiiu,2011-10-04 14:38:22,2024-06-10 13:48:09,,1,5,Project Cafe,8,{73},WiiU,239,{10},f89734ee-569c-b25c-0ae0-6eb11b2224dd
+53,MSX2,msx2,https://www.igdb.com/platforms/msx2,2012-06-19 19:47:36,2024-06-10 13:48:09,,6,,,,{48},MSX2,308,,d6f6cc07-f15c-1fab-6372-734d874684c8
+140,AY-3-8500,ay-3-8500,https://www.igdb.com/platforms/ay-3-8500,2017-09-16 21:29:32,2024-06-10 13:48:09,,6,,,,"{198,201,202,203,204,510}",,128,,4498fc10-b5fa-0a7f-1026-7347c4a2fe19
+143,AY-3-8760,ay-3-8760,https://www.igdb.com/platforms/ay-3-8760,2017-09-19 13:55:55,2024-06-10 13:48:09,,1,,,,{206},,,,69436aa6-6d7d-bb63-d775-444b6893301b
+60,Atari 7800,atari7800,https://www.igdb.com/platforms/atari7800,2013-06-26 18:14:41,2024-06-10 13:48:09,,1,,Atari 7800 ProSystem,3,{26},Atari7800,303,,75e3ee56-5254-ea30-b5be-131e33ff2004
+70,Vectrex,vectrex,https://www.igdb.com/platforms/vectrex,2013-06-29 10:10:28,2024-06-10 13:48:09,,1,,,2,{70},vectrex,305,,5140484a-7fd8-2a13-2542-a9207d7c9fd4
+145,AY-3-8603,ay-3-8603,https://www.igdb.com/platforms/ay-3-8603,2017-09-19 13:56:24,2024-06-10 13:48:09,,1,,,,{208},,,,0124f86d-b875-8d9e-8c78-95c7fc47de08
+77,Sharp X1,x1,https://www.igdb.com/platforms/x1,2014-01-28 12:34:20,2024-06-10 13:48:09,,6,,,,{66},x1,297,,c3265f1f-9c3e-fc18-b8e9-cf288b499e95
+78,Sega CD,segacd,https://www.igdb.com/platforms/segacd,2014-02-09 03:58:10,2024-06-10 13:48:09,,1,3,Mega CD,4,{80},segacd,284,,68c11f76-6ea3-f708-1c6e-f5a390d37c54
+87,Virtual Boy,virtualboy,https://www.igdb.com/platforms/virtualboy,2014-05-23 06:06:19,2024-06-10 13:48:09,,1,5,VB,5,{100},virtualboy,280,,bf67e603-dad2-4b4f-60f4-42ba62849a26
+97,PDP-8,pdp-8--1,https://www.igdb.com/platforms/pdp-8--1,2015-02-20 21:04:55,2024-06-10 13:48:09,,6,,,,{119},pdp-8,,,eab6eb03-90f9-c8ea-fb65-a98533fb31b6
+98,DEC GT40,gt40,https://www.igdb.com/platforms/gt40,2015-02-20 21:08:06,2015-02-20 21:09:01,,,,,,{120},gt40,,,479fe519-86c9-0bd1-0c72-311b125e7886
+101,Ferranti Nimrod Computer,nimrod,https://www.igdb.com/platforms/nimrod,2015-07-26 08:39:34,2024-06-10 13:48:09,,6,,,,{127},nimrod,386,,9210f8a2-3f26-bea5-592a-dc573e2e8731
+108,PDP-11,pdp11,https://www.igdb.com/platforms/pdp11,2015-07-28 13:29:08,2024-06-10 13:48:09,,6,,,,{134},pdp11,,,ad20351c-ef97-5b68-3166-ebe599a36a0a
+109,CDC Cyber 70,cdccyber70,https://www.igdb.com/platforms/cdccyber70,2015-07-28 13:30:41,2024-06-10 13:48:09,,6,,,,{135},cdccyber70,374,,30a78a03-7d24-5580-2167-22682ab2208c
+112,Microcomputer,microcomputer--1,https://www.igdb.com/platforms/microcomputer--1,2015-08-05 09:23:51,2015-08-05 09:24:22,,,,,,{138},microcomputer,,,49f7f77d-42a9-0cae-368f-6f9475275e1f
+113,OnLive Game System,onlive-game-system,https://www.igdb.com/platforms/onlive-game-system,2015-08-12 20:16:07,2024-06-10 13:49:14,,3,,,,{140},,383,{15},1fc33df6-3737-8f0c-416b-fa128bd6e8b3
+115,Apple IIGS,apple-iigs,https://www.igdb.com/platforms/apple-iigs,2015-09-03 08:30:03,2024-06-10 13:48:09,,6,,,,{153},,295,,0b68ee2c-4b62-f6a4-8e27-8c1b55047bbe
+120,Neo Geo Pocket Color,neo-geo-pocket-color,https://www.igdb.com/platforms/neo-geo-pocket-color,2015-09-03 08:34:13,2024-06-10 13:48:09,,5,,NGPC,5,{158},,269,,34fcdc12-7b48-c959-7814-301a9f0dddeb
+124,SwanCrystal,swancrystal,https://www.igdb.com/platforms/swancrystal,2015-09-05 20:54:24,2024-06-10 13:48:09,,5,,,,{162},,319,,9d836c39-3419-65f8-02ff-9fe73e6b6716
+125,PC-8800 Series,pc-8800-series,https://www.igdb.com/platforms/pc-8800-series,2015-10-18 19:49:41,2024-06-10 13:48:09,,6,,,,{163},,542,{217},33a7cc0c-fcec-d451-a9f4-accaef020a7b
+127,Fairchild Channel F,fairchild-channel-f,https://www.igdb.com/platforms/fairchild-channel-f,2016-03-08 12:59:50,2024-06-10 13:48:09,,1,,,2,"{165,212}",,316,,b4d6f25f-ace0-cb99-d2f5-955445d991b0
+132,Amazon Fire TV,amazon-fire-tv,https://www.igdb.com/platforms/amazon-fire-tv,2016-07-28 16:15:18,2024-06-10 13:49:14,,3,,,,{176},,325,,db7a1f28-dc0d-68b1-c31e-94f43b9643b1
+138,VC 4000,vc-4000,https://www.igdb.com/platforms/vc-4000,2017-09-12 14:00:45,2024-06-10 13:48:09,,1,,,2,{196},,134,{18},cf5360d1-3a2e-8ee0-08bc-826a27bfe060
+139,1292 Advanced Programmable Video System,1292-advanced-programmable-video-system,https://www.igdb.com/platforms/1292-advanced-programmable-video-system,2017-09-12 14:02:29,2024-06-10 13:48:09,,1,,,2,"{197,213}",,136,,8433ae84-dbc7-122b-ec12-f1858bad1c5f
+153,Dragon 32/64,dragon-32-slash-64,https://www.igdb.com/platforms/dragon-32-slash-64,2017-11-07 10:35:17,2024-06-10 13:48:09,,6,,,,{218},,302,{21},d11981c1-fbb1-100c-d63f-92021aa7fb0f
+154,Amstrad PCW,amstrad-pcw,https://www.igdb.com/platforms/amstrad-pcw,2017-11-07 10:35:46,2024-06-10 13:48:09,,6,,,,{219},,547,{22},af7ef1c3-c78b-1349-e129-0eafe14ba16f
+155,Tatung Einstein,tatung-einstein,https://www.igdb.com/platforms/tatung-einstein,2017-11-07 10:36:19,2024-06-10 13:48:09,,6,,,,{220},,368,{23},e7061776-b061-c4e7-b04e-cac5d68c38d1
+306,Satellaview,satellaview,https://www.igdb.com/platforms/satellaview,2020-05-29 19:51:44,2024-06-10 13:48:09,,1,5,,4,{423},,595,"{205,289}",57d261ec-73e8-3132-1beb-9678e284f9b0
+307,Game & Watch,g-and-w,https://www.igdb.com/platforms/g-and-w,2020-05-29 19:58:32,2024-06-10 13:48:09,,5,5,"Tricotronic, GW, G&W",2,{424},G&W,531,{206},cfbc4a8d-ae48-d104-acf6-1fafdee48f43
+308,Playdia,playdia,https://www.igdb.com/platforms/playdia,2020-05-29 19:59:53,2024-06-10 13:48:09,,1,,,5,{425},,532,{208},3465b908-1432-e94c-dc31-72cb0099f969
+131,Super NES CD-ROM System,super-nes-cd-rom-system,https://www.igdb.com/platforms/super-nes-cd-rom-system,2016-07-14 07:52:41,2024-08-07 17:21:02,,1,5,SNES-CD,4,"{174,722}",,529,{210},025c0bd5-ab43-761b-a46a-cbb3a90c67f0
+9,PlayStation 3,ps3,https://www.igdb.com/platforms/ps3,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,1,PS3,7,"{4,5,6}",PS3,79,{3},2bc7f466-a1ae-bbf2-c148-a0c10b1d59f2
+61,Atari Lynx,lynx,https://www.igdb.com/platforms/lynx,2013-06-26 18:15:13,2024-06-10 13:48:09,,5,,,4,"{29,189}",Lynx,290,,28a85ec7-a1de-6e5b-9373-e0bbd3bafa13
+11,Xbox,xbox,https://www.igdb.com/platforms/xbox,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,2,,6,{77},XBOX,266,,226780a3-83ed-dcf9-6757-77091acc172d
+15,Commodore C64/128/MAX,c64,https://www.igdb.com/platforms/c64,2011-02-16 18:23:59,2024-06-10 13:48:09,,6,,C64/C128/MAX,,"{36,595}",C64,759,,8fa1c5c8-5359-5972-a73d-d8f495d269ed
+18,Nintendo Entertainment System,nes,https://www.igdb.com/platforms/nes,2011-02-17 11:20:36,2024-06-10 13:48:09,,1,5,NES,3,"{53,643,644}",NES,816,,82326c7f-8751-f552-e505-614423c1fc00
+66,Atari 5200,atari5200,https://www.igdb.com/platforms/atari5200,2013-06-29 10:06:41,2024-06-10 13:48:09,the mother text,1,,Atari 5200 SuperSystem,2,{25},Atari5200,304,,b5e86dec-98fe-d680-de33-8fef3dae5435
+111,Imlac PDS-1,imlac-pds1,https://www.igdb.com/platforms/imlac-pds1,2015-08-02 12:34:35,2015-08-02 12:55:49,,,,,,{137},imlac-pds1,,,f6058e7f-0a66-beda-fe89-0c4f46a7864b
+22,Game Boy Color,gbc,https://www.igdb.com/platforms/gbc,2011-03-15 11:19:20,2024-06-10 13:48:09,,5,5,GBC,5,{41},GBC,273,,ecd1db6f-8e22-bba6-a2d4-6b33cb5c2682
+32,Sega Saturn,saturn,https://www.igdb.com/platforms/saturn,2011-04-05 11:55:06,2024-06-10 13:48:09,,1,3,"JVC Saturn, Hi-Saturn, Samsung Saturn, V-Saturn",5,{65},Saturn,49,{6},f4fddc54-c402-d538-ac88-e3d711bf3bb2
+46,PlayStation Vita,psvita,https://www.igdb.com/platforms/psvita,2011-11-19 11:17:25,2024-06-10 13:48:09,,5,1,PS Vita,8,"{60,274,275}",Vita,232,{34},4f81d235-35bc-55a4-8fc1-5afc6f84083c
+67,Intellivision,intellivision,https://www.igdb.com/platforms/intellivision,2013-06-29 10:07:17,2024-06-10 13:48:09,,1,,,2,{42},intellivision,312,,84a4defd-0a29-ca54-0a07-67b61a4ddc98
+73,BlackBerry OS,blackberry,https://www.igdb.com/platforms/blackberry,2013-11-14 20:32:45,2024-06-10 13:48:09,,4,,,,{34},blackberry,40,,6fdda0e4-4884-2e33-fd1a-de3521c9b804
+86,TurboGrafx-16/PC Engine,turbografx16--1,https://www.igdb.com/platforms/turbografx16--1,2014-05-23 06:05:34,2024-06-10 13:48:09,,1,,TG16,4,{99},turbografx16,296,{382},14346217-7f52-a305-1bdb-503fbf385b80
+114,Amiga CD32,amiga-cd32,https://www.igdb.com/platforms/amiga-cd32,2015-09-03 08:29:22,2024-06-10 13:48:09,,1,,,5,{152},,283,,bd4ad4b9-f009-41cf-12e3-a10ce8ef69eb
+116,Acorn Archimedes,acorn-archimedes,https://www.igdb.com/platforms/acorn-archimedes,2015-09-03 08:31:55,2024-06-10 13:48:09,,6,,,,{154},,388,{214},1991c292-b1d6-8639-c74f-0b81cccc8845
+117,Philips CD-i,philips-cd-i,https://www.igdb.com/platforms/philips-cd-i,2015-09-03 08:32:27,2024-06-10 13:48:09,,1,,,,{155},,288,,bca1c0c7-303a-5342-2e3c-2c121b40b24a
+118,FM Towns,fm-towns,https://www.igdb.com/platforms/fm-towns,2015-09-03 08:33:06,2024-06-10 13:48:09,,6,,,,"{156,707,708,709}",,,,13400b63-ac06-1a50-3117-4524cf43904f
+121,Sharp X68000,sharp-x68000,https://www.igdb.com/platforms/sharp-x68000,2015-09-03 08:34:49,2024-06-10 13:48:09,,6,,,,{159},,306,,3a2f2fc9-7b6c-39f1-1a45-cca745eb8c09
+122,Nuon,nuon,https://www.igdb.com/platforms/nuon,2015-09-05 20:52:42,2024-06-10 13:48:09,,1,,,,{160},,268,{172},bd7c0b27-2608-a3e7-8e11-23f6deebc71d
+141,AY-3-8610,ay-3-8610,https://www.igdb.com/platforms/ay-3-8610,2017-09-16 21:29:52,2024-06-10 13:48:09,,6,,,,{199},,,,d0a3d734-27aa-db05-4436-dc38739f7f9a
+152,FM-7,fm-7,https://www.igdb.com/platforms/fm-7,2017-11-07 10:34:44,2024-06-10 13:48:09,,6,,Fujitsu Micro 7,,{217},,538,{20},63b1a9d7-a511-8002-0575-4b57876ddb42
+157,NEC PC-6000 Series,nec-pc-6000-series,https://www.igdb.com/platforms/nec-pc-6000-series,2017-11-07 10:40:17,2024-06-10 13:48:09,,6,,,,{222},,370,{25},f781f28a-65e0-c00d-bf2d-3fdb80c54231
+162,Oculus VR,oculus-vr,https://www.igdb.com/platforms/oculus-vr,2018-02-15 14:21:40,2021-09-30 01:48:20,,,,,,{232},Oculus VR,158,"{29,287}",7eb8ba4e-4957-a747-0161-e060c6aa4616
+20,Nintendo DS,nds,https://www.igdb.com/platforms/nds,2011-02-17 11:21:41,2024-06-10 13:48:09,,5,5,NDS,7,"{52,190,191,192}",NDS,245,,b5e2f33b-72b3-bf32-79f9-3d5fb5176af1
+57,WonderSwan,wonderswan,https://www.igdb.com/platforms/wonderswan,2012-07-14 18:32:26,2024-06-10 13:48:09,,5,,WS,5,"{76,84,117}",WonderSwan,263,,f4e5369d-6ddc-59db-c2c8-df1dc4ad2cec
+69,BBC Microcomputer System,bbcmicro,https://www.igdb.com/platforms/bbcmicro,2013-06-29 10:09:37,2024-06-10 13:48:09,,6,,BBC Micro,,{33},bbcmicro,294,,5bcdf949-de34-ecf5-c67d-b532489be13d
+71,Commodore VIC-20,vic-20,https://www.igdb.com/platforms/vic-20,2013-06-29 10:11:05,2024-06-10 13:48:09,,6,,,,{37},vic-20,313,,3e43a9f4-b55b-69e8-7222-64487c29bd47
+339,Sega Pico,sega-pico,https://www.igdb.com/platforms/sega-pico,2020-07-27 17:26:17,2024-06-10 13:48:09,,1,3,Kids Computer Pico,4,{456},,600,,ba5c6f29-54ba-603b-a8d2-85e22e4367ea
+379,Game.com,game-dot-com,https://www.igdb.com/platforms/game-dot-com,2021-05-14 14:45:40,2024-06-10 13:48:09,,5,,Tiger Game.com,5,{498},,596,{309},6e099a03-a612-dd25-4197-52da3178ff5e
+382,Intellivision Amico,intellivision-amico,https://www.igdb.com/platforms/intellivision-amico,2021-06-14 16:52:56,2024-06-10 13:48:09,,1,,,,{502},,745,{279},2fb0589a-2f8a-e5e5-e6be-6f576c53f9b3
+387,Oculus Go,oculus-go,https://www.igdb.com/platforms/oculus-go,2021-09-21 21:19:41,2024-06-10 13:48:09,,1,,Go,,{508},,740,{285},fe234214-e5a5-a39c-8c5c-4a7d3b38c201
+374,Sharp MZ-2200,sharp-mz-2200,https://www.igdb.com/platforms/sharp-mz-2200,2020-12-06 23:25:22,2024-06-10 13:48:09,,6,,,,{492},,,,318d54ca-5fd2-f9a2-51ac-b410927450b3
+74,Windows Phone,winphone,https://www.igdb.com/platforms/winphone,2013-11-14 20:33:38,2024-06-10 13:48:09,,4,,WP,,"{224,225,226,227}",Win Phone,363,,007cbe18-41ed-e3d5-8292-4e9ad3b684ef
+79,Neo Geo MVS,neogeomvs,https://www.igdb.com/platforms/neogeomvs,2014-02-11 12:39:45,2024-06-10 13:48:09,,2,,Neo Geo Multi Video System,,{81},neogeomvs,70,,8e1fb3fd-a38a-28cc-f8a4-3404ddec3dec
+388,Gear VR,gear-vr,https://www.igdb.com/platforms/gear-vr,2021-09-21 21:22:10,2024-06-10 13:48:09,,1,,Samsung Gear VR,,{509},,739,{286},752e6990-4234-cf32-c9e8-defa9c30e475
+80,Neo Geo AES,neogeoaes,https://www.igdb.com/platforms/neogeoaes,2014-02-11 12:45:02,2024-06-10 13:48:09,,1,,AES,4,{82},neogeoaes,69,,496c2bad-bcc8-ebda-a3c9-2756cffd7f1d
+375,Epoch Cassette Vision,epoch-cassette-vision,https://www.igdb.com/platforms/epoch-cassette-vision,2021-02-10 08:54:03,2024-06-10 13:48:09,,1,,,2,{493},,744,{272},36343ee3-613e-179c-56aa-318ff349b139
+376,Epoch Super Cassette Vision,epoch-super-cassette-vision,https://www.igdb.com/platforms/epoch-super-cassette-vision,2021-02-11 13:15:13,2024-06-10 13:48:09,,1,,YENO Super Cassette Vision,3,{494},,743,{273},640c9565-f578-356b-c31d-3ec2079b1c70
+84,SG-1000,sg1000,https://www.igdb.com/platforms/sg1000,2014-04-14 20:41:04,2024-06-10 13:48:09,,1,3,Sega Game 1000,3,"{91,92}",sg1000,815,,92d30eca-01a7-b091-174c-bbf6c1294fc4
+91,Bally Astrocade,astrocade,https://www.igdb.com/platforms/astrocade,2014-09-25 15:23:24,2024-06-10 13:48:09,,1,,Bally Arcade,2,{105},astrocade,,,21254ade-89bf-58f2-29ce-bfa8711f1dda
+170,Google Stadia,stadia,https://www.igdb.com/platforms/stadia,2019-08-08 14:20:18,2024-06-10 13:49:14,,3,4,Stadia,,{285},Stadia,328,"{37,280}",9ce5d916-56d5-cbf8-af8f-494e25fe3577
+377,Plug & Play,plug-and-play,https://www.igdb.com/platforms/plug-and-play,2021-05-12 00:11:21,2024-06-10 13:49:14,,3,,TV Game,,"{496,684,685,686,687,688}",,,{277},a2044618-d0be-2470-9746-86ee598506d8
+384,Oculus Quest,oculus-quest,https://www.igdb.com/platforms/oculus-quest,2021-09-16 19:03:58,2024-06-10 13:48:09,,1,,Quest,,{505},,619,"{282,288}",8fc1f8fe-a1f9-7940-f280-9fef6eec5d21
+385,Oculus Rift,oculus-rift,https://www.igdb.com/platforms/oculus-rift,2021-09-21 20:30:30,2024-06-10 13:48:09,,1,,Rift,,"{506,680}",,836,{283},3006e572-c674-e673-2220-a9ca0798b6f6
+21,Nintendo GameCube,ngc,https://www.igdb.com/platforms/ngc,2011-02-18 12:35:43,2024-06-10 13:48:09,,1,5,GCN,6,"{54,121,125}",NGC,262,{292},617b5b20-8ace-6046-14ed-7795ab4eb5f5
+33,Game Boy,gb,https://www.igdb.com/platforms/gb,2011-04-09 09:41:29,2024-06-10 13:48:09,,5,5,GB,4,"{39,181,182}",Game Boy,274,,b48bbba5-34fe-c95d-7126-7cc9dfcb1c65
+42,N-Gage,ngage,https://www.igdb.com/platforms/ngage,2011-10-04 17:17:29,2024-06-10 13:48:09,,5,,NGage,6,"{49,118}",NGage,258,,db057318-c5ee-5996-d1b7-61d3be110d2e
+93,Commodore 16,c16,https://www.igdb.com/platforms/c16,2014-10-25 16:12:08,2024-06-10 13:48:09,,6,,C16,,{107},C16,544,{213},8899c810-28ef-53c8-b563-0965c7efba3d
+96,PDP-10,pdp10,https://www.igdb.com/platforms/pdp10,2014-12-14 14:08:23,2024-06-10 13:48:09,,6,,,,{116},pdp10,,,aadf131a-55fe-8481-d377-8c6eefe18415
+161,Windows Mixed Reality,windows-mixed-reality,https://www.igdb.com/platforms/windows-mixed-reality,2018-02-15 14:17:43,2018-02-15 14:17:53,,,,WMR,,{231},,796,{28},9f7bb157-24f5-f7da-d05a-f0ca17c99cbe
+167,PlayStation 5,ps5,https://www.igdb.com/platforms/ps5,2018-11-29 14:29:10,2024-06-10 13:48:09,,1,1,PS5,9,{273},PS5,795,{281},6b05a5ac-8fc5-08c6-7ad4-6f32930eb85b
+479,Terebikko / See 'n Say Video Phone,terebikko-slash-see-n-say-video-phone,https://www.igdb.com/platforms/terebikko-slash-see-n-say-video-phone,2024-03-26 15:47:52,2024-06-10 13:48:09,,1,,,,"{697,698}",,,{380},44c903a8-278f-ecc2-cace-9e5d9b658ab7
+50,3DO Interactive Multiplayer,3do,https://www.igdb.com/platforms/3do,2012-01-17 19:46:05,2024-06-10 13:48:09,,1,,3DO,5,{18},3DO,282,,87213d2d-1406-71e3-dc09-8f2352937191
+137,New Nintendo 3DS,new-nintendo-3ds,https://www.igdb.com/platforms/new-nintendo-3ds,2017-09-05 11:25:34,2024-06-10 13:48:09,,5,5,n3DS,8,"{195,677}",,235,{17},10d2d57e-e40a-94d2-842a-c1de7ddd2f29
+64,Sega Master System/Mark III,sms,https://www.igdb.com/platforms/sms,2013-06-29 10:03:37,2024-06-10 13:48:09,,1,3,"SMS, Mark III",3,"{63,629,630,631,632,633}",SMS,,,bdc235e9-0e6d-f73f-a420-cfa7935af434
+274,PC-FX,pc-fx,https://www.igdb.com/platforms/pc-fx,2020-04-24 19:08:34,2024-06-10 13:48:09,,1,,,5,{392},,548,{139},a880243d-9f81-4fcf-fdf7-da0fe028be95
+309,Evercade,evercade,https://www.igdb.com/platforms/evercade,2020-05-29 20:01:28,2024-06-10 13:48:09,,5,,,8,"{426,500,594}",,754,{207},72d87cd7-74b9-751a-b6ad-dfc2e552064b
+381,Playdate,playdate,https://www.igdb.com/platforms/playdate,2021-06-08 16:21:15,2024-06-10 13:48:09,,5,,,9,{501},,609,{278},45e16d52-5a6f-04ec-0394-46855ef4025b
+95,PDP-1,pdp1,https://www.igdb.com/platforms/pdp1,2014-12-14 14:07:51,2024-06-10 13:48:09,,6,,Programmed Data Processor-1,,{115},pdp1,,{212},f5fdcfb5-aaaa-1af3-98d1-ffb5cb063a18
+110,PLATO,plato--1,https://www.igdb.com/platforms/plato--1,2015-08-02 12:33:23,2024-06-10 13:48:09,,6,,Programmed Logic for Automatic Teaching Operations,,{136},plato,375,,46476609-7e40-6759-25f6-daecc85fb708
+372,OOParts,ooparts,https://www.igdb.com/platforms/ooparts,2020-11-28 08:15:04,2024-06-10 13:49:14,,3,,,,{490},,594,{271},3af6eea3-3715-3a44-7bd3-be2823e1f6eb
+378,Gamate,gamate,https://www.igdb.com/platforms/gamate,2021-05-12 04:40:04,2024-06-10 13:48:09,,5,,Super Boy,4,{497},,627,"{290,305}",dbcba469-1770-894a-1212-28cd373558be
+380,Casio Loopy,casio-loopy,https://www.igdb.com/platforms/casio-loopy,2021-05-17 18:24:06,2024-06-10 13:48:09,,1,,Loopy,,{499},,742,,f450d962-bb4e-20e4-0502-2fe83f727922
+100,Analogue electronics,analogueelectronics,https://www.igdb.com/platforms/analogueelectronics,2015-07-26 08:38:47,2015-07-26 09:31:42,,,,,,{126},analogueelectronics,,,01951a13-ac9d-9f80-2b02-f9a818d83326
+478,Panasonic M2,panasonic-m2,https://www.igdb.com/platforms/panasonic-m2,2024-03-21 16:41:10,2024-06-10 13:48:09,,1,,,6,{695},,,{379},b36676c6-5e7f-41ca-46ec-59f6898fe5a1
+236,Exidy Sorcerer,exidy-sorcerer,https://www.igdb.com/platforms/exidy-sorcerer,2019-11-15 10:22:17,2024-06-10 13:48:09,,6,,,,{353},,,{215},49bd449a-ff99-0083-8954-5812a35c1c5c
+26,ZX Spectrum,zxs,https://www.igdb.com/platforms/zxs,2011-03-15 16:28:32,2024-06-10 13:48:09,,6,,,,{79},ZXS,371,,f73944f5-3aee-6709-e02f-ed9b896a85cc
+102,EDSAC,edsac--1,https://www.igdb.com/platforms/edsac--1,2015-07-26 08:40:25,2024-06-10 13:48:09,,6,,Electronic Delay Storage Automatic Calculator,,{128},edsac,389,,60d0cce1-2d5c-720a-da36-96be6f562d2d
+103,PDP-7,pdp-7--1,https://www.igdb.com/platforms/pdp-7--1,2015-07-26 08:40:57,2015-07-26 09:31:48,,,,,,{129},pdp-7,,,e828d5a4-68ad-b75c-dc50-f8ea7df31036
+27,MSX,msx,https://www.igdb.com/platforms/msx,2011-03-15 16:30:14,2024-06-10 13:48:09,,6,,,,{47},MSX,307,,7954204a-0502-4940-48c1-d525148f76fd
+104,HP 2100,hp2100,https://www.igdb.com/platforms/hp2100,2015-07-27 08:40:02,2024-06-10 13:48:09,,6,,,,{130},hp2100,,,17f8a2f3-c014-058a-2827-375e11bcb851
+166,Pokémon mini,pokemon-mini,https://www.igdb.com/platforms/pokemon-mini,2018-08-22 22:44:09,2024-06-10 13:48:09,,5,5,,,{272},,267,{33},9ea7c3e7-d03a-b228-b380-5bb17ea9be9f
+105,HP 3000,hp3000,https://www.igdb.com/platforms/hp3000,2015-07-27 08:40:28,2024-06-10 13:48:09,,6,,,,{131},hp3000,369,,d4ac96e8-e4ba-b0dc-22ac-22b73d19ba83
+106,SDS Sigma 7,sdssigma7,https://www.igdb.com/platforms/sdssigma7,2015-07-27 08:42:43,2024-06-10 13:48:09,,6,,,,{132},sdssigma7,,,2b8bbf36-b6ff-0242-80f4-7d1c6a0423e0
+37,Nintendo 3DS,3ds,https://www.igdb.com/platforms/3ds,2011-10-03 13:27:59,2024-06-10 13:48:09,,5,5,3DS,8,"{50,675,676}",3DS,834,{9},fcba030b-8aa7-540b-2990-253369822ce0
+38,PlayStation Portable,psp,https://www.igdb.com/platforms/psp,2011-10-03 13:27:59,2024-06-10 13:48:09,,5,1,PSP,7,"{59,276,277,278,279}",PSP,214,,4e0f4cb0-f3c4-6884-f159-de678ead05f5
+107,Call-A-Computer time-shared mainframe computer system,call-a-computer,https://www.igdb.com/platforms/call-a-computer,2015-07-27 08:45:52,2024-06-10 13:48:09,,6,,,,{133},call-a-computer,,,47311af8-783b-05f5-0d26-0848d099a399
+151,TRS-80 Color Computer,trs-80-color-computer,https://www.igdb.com/platforms/trs-80-color-computer,2017-11-07 10:33:27,2024-06-10 13:48:09,,6,,Tandy Color Computer,,{216},,541,{19},9bd8e911-be9c-a1ad-d8a9-fbf2888cf9ff
+164,Daydream,daydream,https://www.igdb.com/platforms/daydream,2018-02-15 14:30:27,2018-02-15 14:30:35,,,,,,{234},,160,{31},1f46c07d-381d-e92f-1b49-88d04abe2f19
+169,Xbox Series X|S,series-x-s,https://www.igdb.com/platforms/series-x-s,2019-08-08 14:09:07,2024-06-10 13:48:09,,1,2,XSX,9,"{284,489}",Series X|S,561,"{36,105,238}",543219c5-9d0b-9c01-2cb6-efca77105f45
+203,DUPLICATE Stadia,duplicate-stadia,https://www.igdb.com/platforms/duplicate-stadia,2019-11-02 22:58:05,2021-04-22 16:50:18,,,,,,"{318,319}",,,{70},12366451-f4e4-cf5c-f0a5-082805b2ff86
+238,DVD Player,dvd-player,https://www.igdb.com/platforms/dvd-player,2019-12-03 16:14:16,2024-06-10 13:48:09,,1,,Digital Versatile Disc Player,,{355},,426,{104},5a8e8d2e-b79e-37a9-7368-e3acbd6407f7
+239,Blu-ray Player,blu-ray-player,https://www.igdb.com/platforms/blu-ray-player,2019-12-03 16:17:36,2024-06-10 13:48:09,,1,,,,{356},,427,{103},57f6c9cb-871e-d913-c5e9-9204991a94e7
+240,Zeebo,zeebo,https://www.igdb.com/platforms/zeebo,2020-02-16 22:57:29,2024-06-10 13:48:09,,1,,,7,{357},,429,{106},d23d6c26-1eb4-4ff6-2e33-93bd082ec6d9
+386,Meta Quest 2,meta-quest-2,https://www.igdb.com/platforms/meta-quest-2,2021-09-21 21:13:16,2024-06-10 13:48:09,,1,,Quest 2,,"{507,593}",Meta Quest 2,756,"{284,341}",fb20fada-1ac3-a056-fe69-684ac0458e77
+99,Family Computer,famicom,https://www.igdb.com/platforms/famicom,2015-04-12 18:33:50,2024-06-10 13:48:09,,1,5,Famicom,3,"{123,642,645,646,647,648}",famicom,843,,097942bd-6551-718d-f932-1c840b246a13
+165,PlayStation VR,psvr,https://www.igdb.com/platforms/psvr,2018-02-15 14:33:04,2024-06-10 13:48:09,,1,1,PSVR,8,{235},PSVR,840,{32},49fc429c-d40f-c686-2f37-2fa1074eb64f
+405,Windows Mobile,windows-mobile,https://www.igdb.com/platforms/windows-mobile,2022-05-17 00:53:56,2024-06-10 13:48:09,,4,,Pocket PC,,"{523,535,536,537,538}",,741,{304},ba5cda89-aa99-fae3-0ee1-22afb9b2e8ea
+389,AirConsole,airconsole,https://www.igdb.com/platforms/airconsole,2021-11-11 19:41:18,2024-06-10 13:49:14,,3,,,,{511},,746,{291},3382e798-f9c3-44ee-7356-127c707e704f
+390,PlayStation VR2,psvr2,https://www.igdb.com/platforms/psvr2,2022-01-05 20:54:40,2024-06-10 13:48:09,,1,1,PSVR2,9,{512},PSVR2,869,{342},6a608ba4-de2e-2fd3-4c7b-5b231cdb1244
+406,Sinclair QL,sinclair-ql,https://www.igdb.com/platforms/sinclair-ql,2022-06-02 10:00:19,2024-06-10 13:48:09,,6,,Sinclair Quantum Leap,,{524},,665,{308},7dd342cb-88a6-d5c8-065a-8bc8119a4496
+407,HyperScan,hyperscan,https://www.igdb.com/platforms/hyperscan,2022-08-10 16:05:44,2024-06-10 13:48:09,,1,,,7,{547},,686,{306},e9990379-85ca-9401-9f1e-003ee0f0da99
+408,Mega Duck/Cougar Boy,mega-duck-slash-cougar-boy,https://www.igdb.com/platforms/mega-duck-slash-cougar-boy,2022-08-10 18:18:59,2024-06-10 13:48:09,,5,,WG-108,4,{548},,687,{307},4bd967b3-9dff-84ab-809a-fdf191e5e0f5
+410,Atari Jaguar CD,atari-jaguar-cd,https://www.igdb.com/platforms/atari-jaguar-cd,2022-08-11 19:19:21,2024-06-10 13:48:09,,1,,Jag CD,5,{550},,688,{310},704539d3-9f54-2d0f-220c-986c484c76b0
+411,Handheld Electronic LCD,handheld-electronic-lcd,https://www.igdb.com/platforms/handheld-electronic-lcd,2022-08-11 19:29:03,2024-06-10 13:48:09,,5,,Handheld LCD Game,,"{551,691,692}",,,,346d9f71-b36b-0730-5251-4927aa627dd2
+409,Legacy Computer,legacy-computer,https://www.igdb.com/platforms/legacy-computer,2022-08-11 16:27:01,2024-06-10 13:48:09,,6,,,,{549},,,,6ee1abcf-6815-e8d5-8f13-657776a5b353
+412,Leapster,leapster,https://www.igdb.com/platforms/leapster,2022-08-11 19:41:50,2024-06-10 13:48:09,,5,,Leapster Learning Game System,6,{552},,689,{311},2a4b5882-ce1b-2ba6-f4c2-0f3e55fda0b9
+414,LeapTV,leaptv,https://www.igdb.com/platforms/leaptv,2022-08-12 14:35:42,2024-06-10 13:48:09,,1,,LeapTV VCD,8,{554},,690,{313},74a35c87-865a-52ee-29f0-70c03039ff84
+413,Leapster Explorer/LeadPad Explorer,leapster-explorer-slash-leadpad-explorer,https://www.igdb.com/platforms/leapster-explorer-slash-leadpad-explorer,2022-08-12 14:13:43,2024-06-10 13:48:09,,5,,,7,{553},,838,{312},0caa9142-7ddc-c2d9-fedd-7337b458e96f
+438,Arduboy,arduboy,https://www.igdb.com/platforms/arduboy,2022-09-20 14:49:03,2024-06-10 13:48:09,,5,,,8,{588},,726,{337},86984dd5-5787-bf56-dc47-51ef8719e44f
+415,Watara/QuickShot Supervision,watara-slash-quickshot-supervision,https://www.igdb.com/platforms/watara-slash-quickshot-supervision,2022-08-12 15:55:01,2024-06-10 13:48:09,,5,,,4,{555},,691,{314},4ed0c0ee-3103-4d53-c0dc-612a391de28d
+439,V.Smile,vsmile,https://www.igdb.com/platforms/vsmile,2022-09-20 15:38:43,2024-06-10 13:48:09,,1,,V.SMILE TV LEARNING SYSTEM,6,{589},,727,{338},126de53d-b08e-2ccc-345f-f3fc2bf8b3dc
+441,PocketStation,pocketstation,https://www.igdb.com/platforms/pocketstation,2022-10-26 18:24:13,2024-06-10 13:48:09,,5,1,,5,{591},,732,{340},01e16974-f1b1-8a6e-d7f2-88bd5d16dd3f
+417,Palm OS,palm-os,https://www.igdb.com/platforms/palm-os,2022-08-12 16:42:21,2024-06-10 13:48:09,,4,,Garnet OS,,{557},,693,{316},7c475b92-12a3-b2a1-e302-dd13f4ebfdc3
+7,PlayStation,ps,https://www.igdb.com/platforms/ps,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,1,"PSX, PSOne, PS",5,"{57,653,654}",PS1,803,,579d4df0-cff5-0ba5-5efa-fbbf32dbbca6
+416,64DD,64dd,https://www.igdb.com/platforms/64dd,2022-08-12 16:13:10,2024-08-23 16:38:39,,1,5,Nintendo 64DD,5,{556},,692,{315},846a5417-500a-bbea-7954-8e070843c915
+16,Amiga,amiga,https://www.igdb.com/platforms/amiga,2011-02-16 18:24:14,2024-06-10 13:48:09,,6,,Commodore Amiga,,"{19,109,110,111,112,113,522}",Amiga,,,222d007a-1c2f-94a3-e83f-94d881c00176
+471,Meta Quest 3,meta-quest-3,https://www.igdb.com/platforms/meta-quest-3,2023-06-01 17:50:25,2024-06-10 13:48:09,,1,,,9,{621},,839,{370},a4c5c23d-cdc3-4dbc-46dd-362142f3a83e
+480,Super A'Can,super-acan,https://www.igdb.com/platforms/super-acan,2024-04-05 19:40:28,2024-06-10 13:48:09,,1,,,4,{699},,856,{381},14f2233a-90d9-6e3b-ace8-2ac7b76e54a0
+47,Virtual Console,vc,https://www.igdb.com/platforms/vc,2012-01-11 10:54:04,2024-06-10 13:49:14,,3,5,VC,,{71},VC,384,,8a6082c8-1ea6-1652-7409-b1f4bd93c911
+440,Visual Memory Unit / Visual Memory System,visual-memory-unit-slash-visual-memory-system,https://www.igdb.com/platforms/visual-memory-unit-slash-visual-memory-system,2022-10-26 16:16:21,2024-06-10 13:48:09,,5,3,VMU / VMS,6,{590},,728,{339},db4ff34b-62fc-ec7b-1442-84f602117f2e
+472,visionOS,visionos,https://www.igdb.com/platforms/visionos,2024-02-09 19:34:10,2024-06-10 13:48:09,,4,,,,{682},,847,{373},e096afee-da56-f255-cc79-e489296b5bad
+473,Arcadia 2001,arcadia-2001,https://www.igdb.com/platforms/arcadia-2001,2024-02-14 19:50:38,2024-06-10 13:48:09,,1,,,,{683},,848,{374},bb87a80b-9796-d632-87bc-a6731b9469be
+51,Family Computer Disk System,fds,https://www.igdb.com/platforms/fds,2012-06-09 14:09:24,2024-06-10 13:48:09,,1,5,"Famicom Disk System, FDS",3,{38},fds,299,,6518150e-93d8-5bae-b8f4-d68315f0ca7a
+474,Gizmondo,gizmondo,https://www.igdb.com/platforms/gizmondo,2024-02-22 22:28:00,2024-06-10 13:48:09,,5,,Gametraq,7,{689},,849,{375},5655d058-98a3-2ba6-7b07-06a6777fd9e3
+25,Amstrad CPC,acpc,https://www.igdb.com/platforms/acpc,2011-03-15 16:27:50,2024-06-10 13:48:09,,6,,Colour Personal Computer,,"{20,525}",ACPC,845,,68740aab-e67a-d3d3-aa3f-fe6320941567
+52,Arcade,arcade,https://www.igdb.com/platforms/arcade,2012-06-18 19:19:01,2024-06-10 13:48:09,,2,,,,"{22,634,635,636,637,638,640,641,649,650,651,652,664,665,666,667,668,669,681,696}",Arcade,827,,11f5b297-b4b6-7d9e-4bd0-3913163567b5
+29,Sega Mega Drive/Genesis,genesis-slash-megadrive,https://www.igdb.com/platforms/genesis-slash-megadrive,2011-03-24 09:43:58,2024-06-10 13:48:09,,1,3,Sega Genesis,4,"{64,622,623,624,625,626,627,628}",Genesis/MegaDrive,,,9dbdfd6d-4dae-3a0f-1d20-e12e6dc15b41
+59,Atari 2600,atari2600,https://www.igdb.com/platforms/atari2600,2013-06-26 18:13:40,2024-06-10 13:48:09,,1,,Atari VCS,2,"{24,673}",Atari2600,832,{372},d7819534-4d88-9e7c-024a-8cdc70be37c8
+68,ColecoVision,colecovision,https://www.igdb.com/platforms/colecovision,2013-06-29 10:07:58,2024-06-10 13:48:09,,1,,Coleco,2,{35},colecovision,311,,a4f8d958-db18-3dc1-0c1a-6763f2091be4
+475,R-Zone,r-zone,https://www.igdb.com/platforms/r-zone,2024-03-01 20:14:13,2024-06-10 13:48:09,,5,,,5,{690},,850,{376},52ce2cbf-9595-d9b9-04e0-475909983921
+476,Apple Pippin,apple-pippin,https://www.igdb.com/platforms/apple-pippin,2024-03-05 21:49:34,2024-06-10 13:48:09,,1,,PiPP!N,5,{693},,851,{377},3735434b-3763-c159-20c7-8c6690e01a20
+481,Tomy Tutor / Pyuta / Grandstand Tutor,tomy-tutor-slash-pyuta-slash-grandstand-tutor,https://www.igdb.com/platforms/tomy-tutor-slash-pyuta-slash-grandstand-tutor,2024-04-12 14:51:04,2024-06-10 13:48:09,,6,,,,{700},,857,{383},b065309d-44cd-a5b6-edc3-e1c5eeb7060d
+486,Digiblast,digiblast,https://www.igdb.com/platforms/digiblast,2024-05-17 16:15:21,2024-06-10 13:48:09,,5,,,7,{712},,866,,fa7f9e58-c3ba-6e35-bc30-e938fb6f4dc7
+12,Xbox 360,xbox360,https://www.igdb.com/platforms/xbox360,2011-02-13 23:21:28,2024-06-10 13:48:09,"Xbox 360 brings you a total games and entertainment experience. The largest library of games, including titles that get you right into the thick of it with Kinect. Plus, your whole family can watch HD movies, TV shows, live events, music, sports and more—across all your devices. Xbox 360 is the center of your games and entertainment universe.",1,2,X360,7,"{2,3,83,495}",X360,622,{4},39a55043-0e8d-aca1-9433-4675fb2bc082
+34,Android,android,https://www.igdb.com/platforms/android,2011-04-12 11:47:41,2024-06-10 13:48:09,,4,4,Infocusa3,,"{7,8,9,10,11,12,236,237,238,239,320,526,527,528,541,542,543,544,545,546,672}",Android,831,{7},c6567c37-17cd-e08b-5d97-46ee19135d11
+48,PlayStation 4,ps4--1,https://www.igdb.com/platforms/ps4--1,2012-01-14 12:42:24,2024-06-10 13:48:09,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. PS4 puts gamers first with an astounding launch line-up and over 180 games in development. Play amazing top-tier blockbusters and innovative indie hits on PS4. Developer inspired, gamer focused.",1,1,PS4,8,"{17,178,179}",PS4,231,{11},1dfa9b83-5f1d-56ce-01a1-06fcdfbb5bc0
+482,Sega CD 32X,sega-cd-32x,https://www.igdb.com/platforms/sega-cd-32x,2024-04-18 20:25:14,2024-06-10 13:48:09,,1,3,Sega Mega-CD 32X,4,{701},,858,,ac3e6590-6d1c-4a46-924c-d094d586e491
+49,Xbox One,xboxone,https://www.igdb.com/platforms/xboxone,2012-01-14 12:43:42,2024-06-10 13:48:09,"Welcome to a new generation of games and entertainment. Where games push the boundaries of realism. And television obeys your every command. Where listening to music while playing a game is a snap. And you can jump from TV to movies to music to a game in an instant. Where your experience is custom tailored to you. And the entertainment you love is all in one place. Welcome to the all-in-one, Xbox One",1,2,XONE,8,"{78,180,185,188}",XONE,329,{12},1e7829d1-ecc1-967f-d605-ceec12f53c86
+3,Linux,linux,https://www.igdb.com/platforms/linux,2011-02-13 23:21:28,2024-06-10 13:48:09,"Linux is a free and open-source (FOSS/FLOSS) Operating System. In a more precise and complex definition, Linux is an open-source OS kernel on which a large variety of Operating Systems (known as Linux distributions) are built.",4,4,GNU/Linux,,{44},Linux,380,{1},b810fb9c-65f7-b297-3658-da9c4d52bf11
+4,Nintendo 64,n64,https://www.igdb.com/platforms/n64,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,5,N64,5,"{51,122}",N64,260,{35},02fd2c06-507d-2cec-8146-452cb1e5a96a
+55,Legacy Mobile Device,mobile,https://www.igdb.com/platforms/mobile,2012-06-26 22:06:17,2024-06-10 13:48:09,,5,,Legacy Cellphone,,"{46,514,539}",Mobile,841,{293},353a58f6-9253-0101-a132-796eacf71820
+5,Wii,wii,https://www.igdb.com/platforms/wii,2011-02-13 23:21:28,2024-06-10 13:48:09,,1,5,Revolution,7,"{72,283}",Wii,326,{275},aa433d9d-5fe2-ecb3-7822-536673adb8ee
+19,Super Nintendo Entertainment System,snes,https://www.igdb.com/platforms/snes,2011-02-17 11:20:47,2024-06-10 13:48:09,,1,5,"SNES, Super Nintendo",4,"{68,95,97,139,177}",SNES,106,{209},9adfe6a8-0040-ef79-94ae-493e37c5125b
+39,iOS,ios,https://www.igdb.com/platforms/ios,2011-10-04 09:15:47,2024-06-10 13:48:09,,4,,,,{43},iOS,248,,fefe4a2b-7c90-0e89-e811-902ea1cf2b58
+58,Super Famicom,sfam,https://www.igdb.com/platforms/sfam,2012-10-26 12:28:16,2024-06-10 13:48:09,,1,5,SFC,4,"{67,98,639}",SFAM,74,,2c90189e-fbde-d856-b2c7-a1522e8caed0
+63,Atari ST/STE,atari-st,https://www.igdb.com/platforms/atari-st,2013-06-27 13:14:01,2024-06-10 13:48:09,,6,,,,{30},Atari-ST,367,,34e7481c-c27b-bef7-d2cf-f2e48ffcb5d7
+75,Apple II,appleii,https://www.igdb.com/platforms/appleii,2013-12-23 01:21:25,2024-06-10 13:48:09,"The Apple II is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak, manufactured by Apple Computer (now Apple Inc.) and introduced in 1977. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993.",6,,apple ][,,{21},Apple][,315,,c54c78dd-0a6b-0c3e-9948-931ac9dd0845
+82,Web browser,browser,https://www.igdb.com/platforms/browser,2014-03-20 21:52:55,2024-06-10 13:49:14,,3,,Internet,,"{86,655,656,657,658,659,660,661,662,663}",browser,825,,df2af206-71c3-ffd0-81b5-7ddab53afd54
+90,Commodore PET,cpet,https://www.igdb.com/platforms/cpet,2014-08-09 20:29:43,2024-06-10 13:48:09,,6,,,,{103},cpet,543,{216},2fa2cd86-55c7-cfa7-9569-e8f0422c8d0b
+126,TRS-80,trs-80,https://www.igdb.com/platforms/trs-80,2015-12-10 00:51:20,2024-06-10 13:48:09,,6,,,,{164},,372,,fb10fc8e-0aeb-b55f-43a1-01b02aab3981
+159,Nintendo DSi,nintendo-dsi,https://www.igdb.com/platforms/nintendo-dsi,2018-01-24 13:41:12,2024-06-10 13:48:09,,5,5,,7,"{228,229}",,246,,3e006565-8164-029f-abd3-6a9c97a22441
+487,LaserActive,laseractive,https://www.igdb.com/platforms/laseractive,2024-05-23 15:41:55,2024-06-10 13:48:09,,1,,,4,{714},,868,{384},ea54806b-4bb4-6ae9-493c-bd2dc9e9ca96
+14,Mac,mac,https://www.igdb.com/platforms/mac,2011-02-14 10:13:16,2024-06-10 13:48:09,,4,,Mac OS,,"{45,141,142,143,144,145,146,147,148,149,150,151,598,599,600,713}",Mac,867,{5},459a0ab8-6cc5-e21f-e39b-4948cd88f8e4
+373,Sinclair ZX81,sinclair-zx81,https://www.igdb.com/platforms/sinclair-zx81,2020-12-03 19:33:22,2024-06-10 13:48:09,,6,,ZX81,,{491},,603,,be01e112-735e-82ba-0aa4-668c25834568
+72,Ouya,ouya,https://www.igdb.com/platforms/ouya,2013-07-09 22:33:32,2024-06-10 13:48:09,"The Ouya (/ˈuːjə/ oo-yə), stylized OUYA, is a microconsole running its own version of the Android operating system, developed by Ouya Inc. Julie Uhrman founded the project in 2012. She brought in designer Yves Béhar to collaborate on the design of the project, and Muffi Ghadiali as product manager to put together the engineering team. Development was funded via Kickstarter, raising $8.5 million and becoming the website's second-highest-earning project in its history.
+
+Units started to ship to Kickstarter backers on March 28, 2013. The console was released to the general public on June 25, 2013, and features an exclusive Ouya store for applications and games designed specifically for the Ouya platform, of which the majority are casual games targeted at or used by a mass audience of casual gamers. Out of the box, Ouya supports media apps such as TwitchTV and XBMC media player. It runs a modified version of Android 4.1 Jelly Bean, and is open to rooting without voiding the warranty (developer models ordered during the Kickstarter campaign for $699 or $1,337 come pre-rooted). The console's hardware design allows it to be easily opened up, requiring only a standard screwdriver for easy modding and possible hardware addons.
+
+All systems can be used as development kits, allowing any Ouya owner to also be a developer, without the need for licensing fees. All games are required to have some kind of free-to-play aspect, whether that be completely free, has a free trial, or has purchasable upgrades, levels, or other in-game items. The Ouya is classified as part of the eighth generation of video game consoles and as such is a rival competing against the PlayStation 4, Xbox One, and Wii U.",1,,,8,{55},Ouya,236,{13},ec1994ca-3247-830f-8452-b664a411ade3
+130,Nintendo Switch,switch,https://www.igdb.com/platforms/switch,2016-06-15 08:22:21,2024-06-10 13:48:09,,1,5,NX,8,"{173,282,503}",Switch,606,{16},cf324b63-af85-dd19-c415-6ec8745e41cf

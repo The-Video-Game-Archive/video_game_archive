@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Armored Core 2 (USA).iso</path>
+		<name>Armored Core 2</name>
+		<desc>The genuine sequel to the original Armored Core. Thrown into the world of AC mechs, you must complete the objectives set for you by a range of different companies, each with a hefty pay packet attached. If the mission is completed, the money goes towards upgrades and repairs to your mech.
+
+The collection of items to upgrade your mech is fully stocked with weapons, defense systems, rocket packs and guidance systems to increase accuracy and speed. Certain missions require a particular upgrade for the mission to be completed correctly, so spending the cash wisely is important to your career.
+
+Once your mech is ready for battle, you can also take on a friend in arena mode, where one-on-one battles rage on for as long as you wish in huge outdoor areas.</desc>
+		<rating>0.9</rating>
+		<releasedate>20001025T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Shooter / Vehicle, FPV</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Armored Core 2 - Another Age (USA).iso</path>
+		<name>Armored Core 2 : Another Age</name>
+		<desc>Another Age is a stand-alone expansion to Armored Core 2, which includes 100 new missions taking place five years after the events of the base game. Once again your task is to complete a range of missions (from destroying enemy mechs to seeking out bases and carriers) and each mission comes with a reward. The money raised goes to upgrading your mech for the bigger battles down the line. Two-player split screen is supported for dog fighting action.</desc>
+		<rating>0.9</rating>
+		<releasedate>20010820T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Metro3D</publisher>
+		<genre>Fighting</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Armored Core 3 (USA).iso</path>
+		<name>Armored Core 3</name>
+		<desc>Armored Core 3 once again puts you in the shoes of a Raven mercinary, with the task of piloting your own battle machine to use in a range of tasks (from destroying other mechs to seek and destroy missions).
+
+After each missions, you are payed in full. The money raised can then go on towards the purchase of items for your mech. Weapon upgrades, better shields, even the opportunity to purchase what's called an Exceed Orbit, smaller robot gun emplacements that hover around your mech, giving you an added boost of fire power in the crunch.
+
+4 player deathmatch modes are also included, where you each pit your supped-up mechs against each other to see who is the last robot standing.</desc>
+		<rating>0.9</rating>
+		<releasedate>20020905T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Metro3D</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Dark Cloud 2 (USA) (v2.00).iso</path>
+		<name>Dark Cloud 2</name>
+		<desc>As a young inventor, you are called upon to search the dangerous dungeons, battle evil monsters and re-claim towns and cities.
+
+By fighting your way through the various dungeons, you must find various ores hidden away. With these ores, you can determine which parts you need to re-build a town. It is up to you to find or create the parts needed to build the various buildings of each town, as well various other parts to each town.
+
+During your adventure, you can also take pictures of various items. Once you have a certain amount, you can then come up with ideas for an invention that will aid you in your quest. From there, you must again find the parts needed to create the invention, and then use the invention either to help you defeat enemies or build the towns.</desc>
+		<rating>0.9</rating>
+		<releasedate>20030217T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./TimeSplitters 2 (USA).iso</path>
+		<name>TimeSplitters 2</name>
+		<desc>In TimeSplitters 2 the evil race of TimeSplitters are travelling back into human history, authoring events that are leading to the enslavement of mankind. Controlling a motley crew of renegade characters, you must hunt them down across environments such as the gangster-filled 1920s, the temples and lush jungles of the Aztecs, Soviet military installations of the Cold War and futuristic robot-factories in space.
+
+TimeSplitters 2 delivers involved single-player and cooperative story modes; it has a complex narrative, multiple objective-based episodes and animated cut-scenes. The game engine has been extensively upgraded to accommodate bigger environments and special graphic effects, and the MapMaker has been enhanced, giving more options to the advanced gamer looking for customisable game scenarios.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021008T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./We Love Katamari (USA).iso</path>
+		<name>We Love Katamari</name>
+		<desc>The quirky gameplay that captivated the world returns to roll up anything and everything that gets in your way! The King of All Cosmos grew to stardom after replacing the stars with the Prince's Katamaris. In response to this new found fame, the King is out to appease his fans with the help of the Prince and his cousins. Now they are tasked with rolling up even more clumps, each larger and more different than the one before. Roll up new objects in different objectives and experience all new levels and environments. All new creative art design, soundtrack, and 2-player co-op mode and expanded battle mode!</desc>
+		<rating>0.9</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Puzzle</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

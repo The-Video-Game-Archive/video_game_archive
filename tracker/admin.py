@@ -44,10 +44,15 @@ class GameResource(resources.ModelResource):
         else:
             for platform in platforms:
                 game_instance['platform'] = platform
-                Game.objects.get_or_create(**game_instance)        
+                Game.objects.get_or_create(**game_instance)     
 
     def save_instance(self, instance, is_create, row, **kwargs):
         pass
+
+class GameVersionResource(resources.ModelResource):
+    class Meta:
+        model = GameVersion
+        fields = ('id', 'game', 'file_name', 'version', 'release_date', 'is_archived', 'played_status')
 
 class PlatformResource(resources.ModelResource):
 
@@ -62,12 +67,12 @@ class GameAdmin(ImportExportModelAdmin):
     resource_classes = [GameResource]
 
 class GameVersionAdmin(ImportExportModelAdmin):
-    list_display = ('game_name', 'version', 'release_date', 'is_archived', 'played_status')
+    list_display = ('id', 'game_name', 'file_name', 'version', 'release_date', 'is_archived', 'played_status')
 
     def game_name(self, obj):
         return obj.game.name
     
-    # resource_classes = [GameVersionResource]
+    resource_classes = [GameVersionResource]
 
 class PlatformAdmin(ImportExportModelAdmin):
     list_display = ('id', 'name', 'release_date', 'url', 'generation')
